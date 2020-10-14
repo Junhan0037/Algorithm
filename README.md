@@ -1,3 +1,3 @@
 # python-coding_test
 
-코딩 테스트
+My CS Blog : https://www.notion.so/Computer-Science-915e104d730a4686af787aaf58291215
