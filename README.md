@@ -14,6 +14,7 @@
     - [링크드 리스트 (Linked List)](https://www.notion.so/Linked-List-b85acedfe9f84c45a3dca571e78a6dfa)
     - [해쉬 테이블 (Hash Table)](https://www.notion.so/Hash-Table-ff7dcc03165f48d199658c9aef6de6fa)
     - [트리 (Tree)](https://www.notion.so/Tree-fe5519a2ae544d0f976a2e5d44af73c6)
+    - [힙 (Heap)](https://www.notion.so/Heap-0e378928279a4ee696c1659f076fd1be)
 - [그리디](https://www.notion.so/46c4a3beadc54e0c9fd8b11a20a77bd7)
 - [구현](https://www.notion.so/80ca2f060bac42cfb71a6c740e52b6ce)
 - [DFS, BFS](https://www.notion.so/DFS-BFS-a8d2c342823947d4aa326e357fbd227b)
