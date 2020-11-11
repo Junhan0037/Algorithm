@@ -49,3 +49,8 @@
         - [위장](https://www.notion.so/0b14892071c94fbe9d8a89b9f599d5ef)
         - [베스트앨범](https://www.notion.so/99f7b1bc310840f9a7f86b8afac75fbf)
 - [백준 알고리즘 문제](https://www.notion.so/286a7b72aa77481084b820ccb7dd1159)
+    - [2920번: 음계](https://www.notion.so/2920-5df9fa1014554634ab694814302a82b0)
+    - [2798번: 블랙잭](https://www.notion.so/2798-31d52832263742539255efb8084912be)
+    - [1874번: 스택 수열](https://www.notion.so/1874-72378f5910dc41beba8436f1546684a9)
+    - [1966번: 프린터 큐](https://www.notion.so/1966-b36ac976d46948a4b1e5a6b9ebf0dfc4)
+    - [5397번: 키로거](https://www.notion.so/5397-3ced5c1b193f42f0a4c596ebfd54bfe0)
