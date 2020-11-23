@@ -2,9 +2,9 @@
 
 자료구조 & 알고리즘
 
-✏️ My CS Blog : https://www.notion.so/73d52547712945a58edb234d7bfa1bbc
+My CS Blog : https://www.notion.so/73d52547712945a58edb234d7bfa1bbc
 
-## 목록
+## ✏️목록
 
 - [자료구조와 알고리즘이란?](https://www.notion.so/0ac174bf9bed4519b245fb707dbca14c)
 - [자료구조 이론](https://www.notion.so/5e60a49275834b2e8363bcb5c158b703)
@@ -54,3 +54,11 @@
     - [1874번: 스택 수열](https://www.notion.so/1874-72378f5910dc41beba8436f1546684a9)
     - [1966번: 프린터 큐](https://www.notion.so/1966-b36ac976d46948a4b1e5a6b9ebf0dfc4)
     - [5397번: 키로거](https://www.notion.so/5397-3ced5c1b193f42f0a4c596ebfd54bfe0)
+    - [2750번: 수 정렬하기](https://www.notion.so/2750-37a83f466ed7417b9f4f6f4549c34453)
+    - [1427번: 소트인사이드](https://www.notion.so/1427-4795577d273d484e9590c988a2f04904)
+    - [10814번: 나이순 정렬](https://www.notion.so/10814-69c29340f217482ebe4b8b5e9950c653)
+    - [11650번: 좌표 정렬하기](https://www.notion.so/11650-c6f2392b626b47428b0f3f2a7130718f)
+    - [10989번: 수 정렬하기 3](https://www.notion.so/10989-3-139acb26c637409e9038be0e54b5d64e)
+    - [2747번: 피보나치 수](https://www.notion.so/2747-5b2abfa4bef34d34aef6496ce0142362)
+    - [1074번: Z](https://www.notion.so/1074-Z-86ac36a0a34444d9bec0ea859215290a)
+    - [7490번: 0 만들기](https://www.notion.so/7490-0-382c7834ea094e21800c310a358bf52f)
