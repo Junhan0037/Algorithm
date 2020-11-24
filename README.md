@@ -62,3 +62,8 @@ My CS Blog : https://www.notion.so/73d52547712945a58edb234d7bfa1bbc
     - [2747번: 피보나치 수](https://www.notion.so/2747-5b2abfa4bef34d34aef6496ce0142362)
     - [1074번: Z](https://www.notion.so/1074-Z-86ac36a0a34444d9bec0ea859215290a)
     - [7490번: 0 만들기](https://www.notion.so/7490-0-382c7834ea094e21800c310a358bf52f)
+    - [2751번: 수 정렬하기 2](https://www.notion.so/2751-2-ba653ede386d4a64960692e653a30ab1)
+    - [11004번: K번째 수](https://www.notion.so/11004-K-956ebb96af5746768742eebf7cc7801e)
+    - [1543번: 문서 검색](https://www.notion.so/1543-f0aaf2f230894557ac4760b3632971b6)
+    - [1568번: 새](https://www.notion.so/1568-21bd88e440a749928244a510a484fef6)
+    - [1302번: 베스트셀러](https://www.notion.so/1302-057d88cd686848e4a584c2a981204358)
