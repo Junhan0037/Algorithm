@@ -2,9 +2,9 @@
 
 자료구조 & 알고리즘
 
-✏️ My CS Blog : https://www.notion.so/73d52547712945a58edb234d7bfa1bbc
+My CS Blog : https://www.notion.so/73d52547712945a58edb234d7bfa1bbc
 
-## 목록
+## ✏️목록
 
 - [자료구조와 알고리즘이란?](https://www.notion.so/0ac174bf9bed4519b245fb707dbca14c)
 - [자료구조 이론](https://www.notion.so/5e60a49275834b2e8363bcb5c158b703)
@@ -42,3 +42,28 @@
     - [플로이드 워셜 알고리즘](https://www.notion.so/a82454542e41472fbabd5d780a70c26a)
 - [최단 경로](https://www.notion.so/880d997aaf78427aa010461eb0868ec5)
 - [그래프](https://www.notion.so/41a6571f382c41e2b886cb4d86693687)
+- [프로그래머스 문제](https://www.notion.so/4f6c90a12a3248549119e6c4f8a085ba)
+    - [해시](https://www.notion.so/4b46bfc9cec44cb9bc2fee7131725c7b)
+        - [완주하지 못한 선수](https://www.notion.so/0688dccdbbc7450e9faaf0a7ecf5d9d8)
+        - [전화번호 목록](https://www.notion.so/6d969b561d2345c0bdabf94d909a901f)
+        - [위장](https://www.notion.so/0b14892071c94fbe9d8a89b9f599d5ef)
+        - [베스트앨범](https://www.notion.so/99f7b1bc310840f9a7f86b8afac75fbf)
+- [백준 알고리즘 문제](https://www.notion.so/286a7b72aa77481084b820ccb7dd1159)
+    - [2920번: 음계](https://www.notion.so/2920-5df9fa1014554634ab694814302a82b0)
+    - [2798번: 블랙잭](https://www.notion.so/2798-31d52832263742539255efb8084912be)
+    - [1874번: 스택 수열](https://www.notion.so/1874-72378f5910dc41beba8436f1546684a9)
+    - [1966번: 프린터 큐](https://www.notion.so/1966-b36ac976d46948a4b1e5a6b9ebf0dfc4)
+    - [5397번: 키로거](https://www.notion.so/5397-3ced5c1b193f42f0a4c596ebfd54bfe0)
+    - [2750번: 수 정렬하기](https://www.notion.so/2750-37a83f466ed7417b9f4f6f4549c34453)
+    - [1427번: 소트인사이드](https://www.notion.so/1427-4795577d273d484e9590c988a2f04904)
+    - [10814번: 나이순 정렬](https://www.notion.so/10814-69c29340f217482ebe4b8b5e9950c653)
+    - [11650번: 좌표 정렬하기](https://www.notion.so/11650-c6f2392b626b47428b0f3f2a7130718f)
+    - [10989번: 수 정렬하기 3](https://www.notion.so/10989-3-139acb26c637409e9038be0e54b5d64e)
+    - [2747번: 피보나치 수](https://www.notion.so/2747-5b2abfa4bef34d34aef6496ce0142362)
+    - [1074번: Z](https://www.notion.so/1074-Z-86ac36a0a34444d9bec0ea859215290a)
+    - [7490번: 0 만들기](https://www.notion.so/7490-0-382c7834ea094e21800c310a358bf52f)
+    - [2751번: 수 정렬하기 2](https://www.notion.so/2751-2-ba653ede386d4a64960692e653a30ab1)
+    - [11004번: K번째 수](https://www.notion.so/11004-K-956ebb96af5746768742eebf7cc7801e)
+    - [1543번: 문서 검색](https://www.notion.so/1543-f0aaf2f230894557ac4760b3632971b6)
+    - [1568번: 새](https://www.notion.so/1568-21bd88e440a749928244a510a484fef6)
+    - [1302번: 베스트셀러](https://www.notion.so/1302-057d88cd686848e4a584c2a981204358)
