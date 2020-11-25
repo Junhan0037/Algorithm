@@ -1,8 +1,9 @@
-# python-DataStructure_Algorithm ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python)
+# python-DataStructure_Algorithm
+
+![Java_8](https://img.shields.io/badge/java8-red?logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python)
 
 자료구조 & 알고리즘
-
-My CS Blog : https://www.notion.so/73d52547712945a58edb234d7bfa1bbc
 
 ## ✏️목록
 
@@ -67,3 +68,5 @@ My CS Blog : https://www.notion.so/73d52547712945a58edb234d7bfa1bbc
     - [1543번: 문서 검색](https://www.notion.so/1543-f0aaf2f230894557ac4760b3632971b6)
     - [1568번: 새](https://www.notion.so/1568-21bd88e440a749928244a510a484fef6)
     - [1302번: 베스트셀러](https://www.notion.so/1302-057d88cd686848e4a584c2a981204358)
+    - [1668번: 트로피 진열](https://www.notion.so/1668-ce8272442d3a4d41977f7b8733449f77)
+    - [1236번: 성 지키기](https://www.notion.so/1236-bc4b2de6778641e0a0427926b0a143c9)
