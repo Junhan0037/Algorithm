@@ -73,3 +73,6 @@
     - [2110번: 공유기 설치](https://www.notion.so/2110-f85ff260700f47dfa42ebad6d6e802ec)
     - [1939번: 중량제한](https://www.notion.so/1939-993352b0f21b4254a1304d0737465dd1)
     - [1991번: 트리 순회](https://www.notion.so/1991-631b4ff7c22b4a84b4f7c4e0fe87ae99)
+    - [1927번: 최소 힙](https://www.notion.so/1927-9ee242b7089f4818b07b17bf7246437e)
+    - [1715번: 카드 정렬하기](https://www.notion.so/1715-68e0bea07e5944a98efe25ff6103d36f)
+    - [1766번: 문제집](https://www.notion.so/1766-8db879711f124e09a287d5dbb7312e62)
