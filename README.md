@@ -76,3 +76,6 @@
     - [1927번: 최소 힙](https://www.notion.so/1927-9ee242b7089f4818b07b17bf7246437e)
     - [1715번: 카드 정렬하기](https://www.notion.so/1715-68e0bea07e5944a98efe25ff6103d36f)
     - [1766번: 문제집](https://www.notion.so/1766-8db879711f124e09a287d5dbb7312e62)
+    - [1904번: 01타일](https://www.notion.so/1904-01-7aac141ef2764af784fe9f402f7f68be)
+    - [12865번: 평범한 배낭](https://www.notion.so/12865-d99c0d11fec344f8bc210a3496b3ea81)
+    - [11053번: 가장 긴 증가하는 부분 수열](https://www.notion.so/11053-eeca6824613f4bd7b58114bae128f453)
