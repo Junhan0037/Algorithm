@@ -79,3 +79,7 @@
     - [1904번: 01타일](https://www.notion.so/1904-01-7aac141ef2764af784fe9f402f7f68be)
     - [12865번: 평범한 배낭](https://www.notion.so/12865-d99c0d11fec344f8bc210a3496b3ea81)
     - [11053번: 가장 긴 증가하는 부분 수열](https://www.notion.so/11053-eeca6824613f4bd7b58114bae128f453)
+    - [9251번: LCS](https://www.notion.so/9251-LCS-9548ca036d6e452c896a6eca14dc3737)
+    - [1495번: 기타리스트](https://www.notion.so/1495-c9a893055300429ba369b3fdc3e02aa4)
+    - [1260번: DFS와 BFS](https://www.notion.so/1260-DFS-BFS-a57bb472477d45f39b7fc5eb051d17e4)
+    - [1697번: 숨바꼭질](https://www.notion.so/1697-59fe56b93cbb426984a1c7cebe677330)
