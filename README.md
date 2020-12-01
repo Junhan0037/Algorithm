@@ -83,3 +83,6 @@
     - [1495번: 기타리스트](https://www.notion.so/1495-c9a893055300429ba369b3fdc3e02aa4)
     - [1260번: DFS와 BFS](https://www.notion.so/1260-DFS-BFS-a57bb472477d45f39b7fc5eb051d17e4)
     - [1697번: 숨바꼭질](https://www.notion.so/1697-59fe56b93cbb426984a1c7cebe677330)
+    - [2606번: 바이러스](https://www.notion.so/2606-6c88d6ae8a4e4cdc8b21e2eab1830a07)
+    - [1012번: 유기농 배추](https://www.notion.so/1012-9e9e6985912247d6a807866f0fb9055b)
+    - [1325번: 효율적인 해킹](https://www.notion.so/1325-1418899ecce346f99926a090892f51df)
