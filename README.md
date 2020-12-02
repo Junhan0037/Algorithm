@@ -86,3 +86,6 @@
     - [2606번: 바이러스](https://www.notion.so/2606-6c88d6ae8a4e4cdc8b21e2eab1830a07)
     - [1012번: 유기농 배추](https://www.notion.so/1012-9e9e6985912247d6a807866f0fb9055b)
     - [1325번: 효율적인 해킹](https://www.notion.so/1325-1418899ecce346f99926a090892f51df)
+    - [10282번: 해킹](https://www.notion.so/10282-5f04a042278b49838ea2a648983f06a0)
+    - [5719번: 거의 최단 경로](https://www.notion.so/5719-3601a005af614c7f94fadd98b69858f3)
+    - [1774번: 우주신과의 교감](https://www.notion.so/1774-a4390d86d8fe47079c26a38f6d84db84)
