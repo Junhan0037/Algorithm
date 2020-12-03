@@ -89,3 +89,7 @@
     - [10282번: 해킹](https://www.notion.so/10282-5f04a042278b49838ea2a648983f06a0)
     - [5719번: 거의 최단 경로](https://www.notion.so/5719-3601a005af614c7f94fadd98b69858f3)
     - [1774번: 우주신과의 교감](https://www.notion.so/1774-a4390d86d8fe47079c26a38f6d84db84)
+    - [5585번: 거스름돈](https://www.notion.so/5585-94130d9f04d548009aeff19421db7aa2)
+    - [1439번: 뒤집기](https://www.notion.so/1439-e6140bd6fc7d43c7903dc7cbe773daef)
+    - [2012번: 등수 매기기](https://www.notion.so/2012-d2a250ef9385409e930ba38fa90c70a4)
+    - [1092번: 배](https://www.notion.so/1092-a682cd44a3e5421cb44ad9d9bd6c5df5)
