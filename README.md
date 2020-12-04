@@ -93,3 +93,6 @@
     - [1439번: 뒤집기](https://www.notion.so/1439-e6140bd6fc7d43c7903dc7cbe773daef)
     - [2012번: 등수 매기기](https://www.notion.so/2012-d2a250ef9385409e930ba38fa90c70a4)
     - [1092번: 배](https://www.notion.so/1092-a682cd44a3e5421cb44ad9d9bd6c5df5)
+    - [2212번: 센서](https://www.notion.so/2212-7076e2d8dcda4386ba4fa290e268940a)
+    - [1461번: 도서관](https://www.notion.so/1461-6a04263f28774a8b820f78e024f48daf)
+    - [1781번: 컵라면](https://www.notion.so/1781-d2b3cdce0b1042d1a5d59a08c6e2a21c)
