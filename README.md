@@ -96,3 +96,4 @@
     - [2212번: 센서](https://www.notion.so/2212-7076e2d8dcda4386ba4fa290e268940a)
     - [1461번: 도서관](https://www.notion.so/1461-6a04263f28774a8b820f78e024f48daf)
     - [1781번: 컵라면](https://www.notion.so/1781-d2b3cdce0b1042d1a5d59a08c6e2a21c)
+    - [17269번: 이름궁합 테스트](https://www.notion.so/17269-b045e3dd71644ba888fd93622ce0023c)
