@@ -97,3 +97,6 @@
     - [1461번: 도서관](https://www.notion.so/1461-6a04263f28774a8b820f78e024f48daf)
     - [1781번: 컵라면](https://www.notion.so/1781-d2b3cdce0b1042d1a5d59a08c6e2a21c)
     - [17269번: 이름궁합 테스트](https://www.notion.so/17269-b045e3dd71644ba888fd93622ce0023c)
+    - [16165번: 걸그룹 마스터 준석이](https://www.notion.so/16165-cf0cc88835ca4f53a2b086796f696f39)
+    - [17224번: APC는 왜 서브태스크 대회가 되었을까?](https://www.notion.so/17224-APC-a0cdb52a27c94727a59e4459b53df79d)
+    - [9037번: The candy war](https://www.notion.so/9037-The-candy-war-a3d74777ff32439e8fa3e398346cdf4a)
