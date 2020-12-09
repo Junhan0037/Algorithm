@@ -100,3 +100,6 @@
     - [16165번: 걸그룹 마스터 준석이](https://www.notion.so/16165-cf0cc88835ca4f53a2b086796f696f39)
     - [17224번: APC는 왜 서브태스크 대회가 되었을까?](https://www.notion.so/17224-APC-a0cdb52a27c94727a59e4459b53df79d)
     - [9037번: The candy war](https://www.notion.so/9037-The-candy-war-a3d74777ff32439e8fa3e398346cdf4a)
+    - [16769번 : Mixing Milk](https://www.notion.so/16769-Mixing-Milk-8ef658b4f19c45ec95480864822d217e)
+    - [2484번: 주사위 네개](https://www.notion.so/2484-188481ad93824c96899e77cf9cd31343)
+    - [16675번: 두 개의 손](https://www.notion.so/16675-83656adaf4574af38e080c5fac7e5880)
