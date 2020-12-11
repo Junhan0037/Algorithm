@@ -106,3 +106,4 @@
     - [17413번: 단어 뒤집기2](https://www.notion.so/17413-2-2131622c48a34c8ba5034f0ba02504db)
     - [16956번: 늑대와 양](https://www.notion.so/16956-9b8f33070f4c4240a6fc4e9e6eb09924)
     - [14620번: 꽃길](https://www.notion.so/14620-f5f520dd15254941ae45847c5fc0d65c)
+    - [16768번: Mooyo Mooyo](https://www.notion.so/16768-Mooyo-Mooyo-b303873a9bb54b518de23a61df812373)
