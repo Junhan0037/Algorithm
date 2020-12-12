@@ -107,3 +107,5 @@
     - [16956번: 늑대와 양](https://www.notion.so/16956-9b8f33070f4c4240a6fc4e9e6eb09924)
     - [14620번: 꽃길](https://www.notion.so/14620-f5f520dd15254941ae45847c5fc0d65c)
     - [16768번: Mooyo Mooyo](https://www.notion.so/16768-Mooyo-Mooyo-b303873a9bb54b518de23a61df812373)
+    - [1932번: 정수 삼각형](https://www.notion.so/1932-ea57b8dd60194f27b6d7e87dbd668a5d)
+    - [11055번: 가장 큰 증가 부분 수열](https://www.notion.so/11055-90beefecc37e4c179cf3a81355e566b8)
