@@ -109,3 +109,7 @@
     - [16768번: Mooyo Mooyo](https://www.notion.so/16768-Mooyo-Mooyo-b303873a9bb54b518de23a61df812373)
     - [1932번: 정수 삼각형](https://www.notion.so/1932-ea57b8dd60194f27b6d7e87dbd668a5d)
     - [11055번: 가장 큰 증가 부분 수열](https://www.notion.so/11055-90beefecc37e4c179cf3a81355e566b8)
+    - [1647번: 도시 분할 계획](https://www.notion.so/1647-ced99d8ef7494eb38953305d7a2a72f4)
+    - [3190번: 뱀](https://www.notion.so/3190-4fa50845bd984e11b4df8afab299bc31)
+    - [18352번: 특정 거리의 도시 찾기](https://www.notion.so/18352-d6769c015e784d449f136ae448cbdbed)
+    - [14502번: 연구소](https://www.notion.so/14502-2412e47d10c04c0dbd1d3167822a927f)
