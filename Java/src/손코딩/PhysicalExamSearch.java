@@ -48,14 +48,14 @@ public class PhysicalExamSearch {
         };
         System.out.print("몇 cm인 사람을 찾고 있나요? : ");
         int height = sc.nextInt();
-        int idx = Arrays.binarySearch(x, new PhyscData("", height, 0.0), PhyscData.HEIGHT_ORDER);
-
-        if (idx < 0) {
-            System.out.println("요소가 없습니다.");
-        } else {
-            System.out.println("x[" + idx + "]에 있습니다.");
-            System.out.println("찾은 데이터 : " + x[idx]);
-        }
+//        int idx = Arrays.binarySearch(x, new PhyscData("", height, 0.0), PhyscData.HEIGHT_ORDER);
+//
+//        if (idx < 0) {
+//            System.out.println("요소가 없습니다.");
+//        } else {
+//            System.out.println("x[" + idx + "]에 있습니다.");
+//            System.out.println("찾은 데이터 : " + x[idx]);
+//        }
     }
 
 }
