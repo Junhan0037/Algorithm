@@ -120,3 +120,4 @@
     - [819번: 가장 흔한 단어](https://www.notion.so/b0201607cdd74b80a13e45f7da57c9c7)
     - [49번: 그룹 애너그램](https://www.notion.so/fe453ded21ce4dd49388ab821cb74afa)
     - [5번: 가장 긴 팰리드롬 부분 문자열](https://www.notion.so/54bcbc22e73f4fccb6b0339b06d39e0d)
+    - [1번: 두 수의 합](https://www.notion.so/1-57b2f4991d7b45579654022143c16bfe)
