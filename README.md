@@ -121,3 +121,4 @@
     - [49번: 그룹 애너그램](https://www.notion.so/fe453ded21ce4dd49388ab821cb74afa)
     - [5번: 가장 긴 팰리드롬 부분 문자열](https://www.notion.so/54bcbc22e73f4fccb6b0339b06d39e0d)
     - [1번: 두 수의 합](https://www.notion.so/1-57b2f4991d7b45579654022143c16bfe)
+    - [42번: 빗물 트래핑](https://www.notion.so/42-bf466b6dd70b47a6ac105432080fbe9b)
