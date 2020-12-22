@@ -122,3 +122,8 @@
     - [5번: 가장 긴 팰리드롬 부분 문자열](https://www.notion.so/54bcbc22e73f4fccb6b0339b06d39e0d)
     - [1번: 두 수의 합](https://www.notion.so/1-57b2f4991d7b45579654022143c16bfe)
     - [42번: 빗물 트래핑](https://www.notion.so/42-bf466b6dd70b47a6ac105432080fbe9b)
+    - [15번: 세 수의 합](https://www.notion.so/15-cc0d3d26a3fe459cbd2c95ad538470d5)
+    - [561번: 배열 파티션 1](https://www.notion.so/561-1-dab7074c59c141c29b39e80cd14a3321)
+    - [238번: 자신을 제외한 배열의 곱](https://www.notion.so/238-22d99cfafac74089b6aa94bb4c26be56)
+    - [121번: 주식을 사고팔기 가장 좋은 시점](https://www.notion.so/121-8ee3365244f24c05999b274b2de84d9d)
+    - [234번: 팰린드롬 연결 리스트](https://www.notion.so/234-0ac9e09415ce4de0a1e94c1f57af59cc)
