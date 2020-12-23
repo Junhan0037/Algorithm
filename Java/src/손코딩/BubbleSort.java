@@ -17,11 +17,19 @@ public class BubbleSort {
             x[i] = sc.nextInt();
         }
 
-        bubbleSort(x, nx); // 배열 x를 버블 정렬합니다.
+        bubbleSort0(x, nx); // 배열 x를 정렬
 
         System.out.println("오름차순으로 정렬했습니다.");
         for (int i = 0; i < nx; i++) {
             System.out.println("x[" + i + "] = " + x[i]);
+        }
+    }
+
+    private static void bubbleSort0(int[] a, int n) { // 일반적인 버전
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n - i - 1; j++) {
+                if (a[j] > a[j + 1]) swap(a, j, j + 1);
+            }
         }
     }
 
