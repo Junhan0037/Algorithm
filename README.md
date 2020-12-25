@@ -129,3 +129,5 @@
     - [234번: 팰린드롬 연결 리스트](https://www.notion.so/234-0ac9e09415ce4de0a1e94c1f57af59cc)
     - [20번: 유효한 괄호](https://www.notion.so/20-577c6262e8914f8d82e846a002e86397)
     - [316번: 중복 문자 제거](https://www.notion.so/316-f1e86b637c1c4df689a1a17ec03f8cb4)
+    - [739번: 일일 온도](https://www.notion.so/739-77075c6b01004b5a82def3d7e0d67224)
+    - [232번: 스택을 이용한 큐 구현](https://www.notion.so/232-7263b54149ae4d3eb50456144955a73e)
