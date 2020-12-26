@@ -1,18 +1,13 @@
-def solution(s):
+def solution(T):
+    result = [0] * len(T)
     stack = []
-    table = {
-        ')' : '(',
-        '}' : '{',
-        ']' : '['
-    }
+    for i, cur in enumerate(T):
+        # 현재 온도가 스택 값보다 높다면 정답 처리
+        while stack and cur > T[stack[-1]]:
+            last = stack.pop()
+            result[last] = i - last
+        stack.append(i)
 
-    # 스택 이용, 예외 처리 및 일치 여부 판별
-    for char in s:
-        if char not in table: # '({['인 경우 push
-            stack.append(char)
-        elif not stack or table[char] != stack.pop(): # 스택이 비어있거나, pop()한 값이 기대한 값과 다를 경우 False
-            return False
+    return result
 
-    return len(stack) == 0
-
-print(solution('()[]{}'))
+print(solution([73, 74, 75, 71, 69, 72, 76, 73]))
