@@ -136,3 +136,5 @@
     - [706번: 해시맵 디자인](https://www.notion.so/706-b531f0bbf41b42799ef7f03adc8d6f0d)
     - [771번: 보석과 돌](https://www.notion.so/771-cdc157babb654be0b9bc6fe2c8eda86e)
     - [3번: 중복 문자 없는 가장 긴 부분 문자열](https://www.notion.so/3-f966fde75050460a9aade323f8e02b8f)
+    - [347번: 상위 K 빈도 요소](https://www.notion.so/347-K-ae134c8bb2174d759a3b3839f7f2e68f)
+    - [200번: 섬의 개수](https://www.notion.so/200-8657e63133a74a58976c068e359b5d2b)
