@@ -138,3 +138,5 @@
     - [3번: 중복 문자 없는 가장 긴 부분 문자열](https://www.notion.so/3-f966fde75050460a9aade323f8e02b8f)
     - [347번: 상위 K 빈도 요소](https://www.notion.so/347-K-ae134c8bb2174d759a3b3839f7f2e68f)
     - [200번: 섬의 개수](https://www.notion.so/200-8657e63133a74a58976c068e359b5d2b)
+    - [17번: 전화번호 문자 조합](https://www.notion.so/17-a66c95c82f544136a3ae792953337e97)
+    - [46번: 순열](https://www.notion.so/46-e92fe647196941ac90358fd557363e3a)
