@@ -140,3 +140,5 @@
     - [200번: 섬의 개수](https://www.notion.so/200-8657e63133a74a58976c068e359b5d2b)
     - [17번: 전화번호 문자 조합](https://www.notion.so/17-a66c95c82f544136a3ae792953337e97)
     - [46번: 순열](https://www.notion.so/46-e92fe647196941ac90358fd557363e3a)
+    - [77번: 조합](https://www.notion.so/77-eb1daf02916e47e0b2aaa58783aeadd5)
+    - [39번: 조합의 합](https://www.notion.so/39-f2bd5928626c4c1788b3e49ab4becc9e)
