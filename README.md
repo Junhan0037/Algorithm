@@ -142,3 +142,4 @@
     - [46번: 순열](https://www.notion.so/46-e92fe647196941ac90358fd557363e3a)
     - [77번: 조합](https://www.notion.so/77-eb1daf02916e47e0b2aaa58783aeadd5)
     - [39번: 조합의 합](https://www.notion.so/39-f2bd5928626c4c1788b3e49ab4becc9e)
+    - [78번: 부분 집합](https://www.notion.so/78-b13bf5f952eb4553b58ec569b716c914)
