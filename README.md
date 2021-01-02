@@ -143,3 +143,5 @@
     - [77번: 조합](https://www.notion.so/77-eb1daf02916e47e0b2aaa58783aeadd5)
     - [39번: 조합의 합](https://www.notion.so/39-f2bd5928626c4c1788b3e49ab4becc9e)
     - [78번: 부분 집합](https://www.notion.so/78-b13bf5f952eb4553b58ec569b716c914)
+    - [332번: 일정 재구성](https://www.notion.so/332-5f0312b36c81409fac6b291056302a34)
+    - [207번: 코스 스케줄](https://www.notion.so/207-1a4123b28f4246f4b9763b928cbcf1e8)
