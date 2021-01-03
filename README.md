@@ -145,3 +145,4 @@
     - [78번: 부분 집합](https://www.notion.so/78-b13bf5f952eb4553b58ec569b716c914)
     - [332번: 일정 재구성](https://www.notion.so/332-5f0312b36c81409fac6b291056302a34)
     - [207번: 코스 스케줄](https://www.notion.so/207-1a4123b28f4246f4b9763b928cbcf1e8)
+    - [743번: 네트워크 딜레이 타임](https://www.notion.so/743-55586ee41e144dfba83002f44555f3bc)
