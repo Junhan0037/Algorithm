@@ -149,3 +149,4 @@
     - [787번: K 경유지 내 가장 저렴한 항공권](https://www.notion.so/787-K-3e6cb626e60347b793dc9338da5d9859)
     - [104번: 이진 트리의 최대 깊이](https://www.notion.so/104-e20df2bf519742769a32b8fe0fdbac54)
     - [543번: 이진 트리의 직경](https://www.notion.so/543-86787ed91fa94479b045b389d5b5ac40)
+    - [687번: 가장 긴 동일 값의 경로](https://www.notion.so/687-0c2072645c8f47b091018af9f15d6841)
