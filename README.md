@@ -151,3 +151,4 @@
     - [543번: 이진 트리의 직경](https://www.notion.so/543-86787ed91fa94479b045b389d5b5ac40)
     - [687번: 가장 긴 동일 값의 경로](https://www.notion.so/687-0c2072645c8f47b091018af9f15d6841)
     - [226번: 이진 트리 반전](https://www.notion.so/226-c78be07f260a4d5c80f23261947d15de)
+    - [617번: 두 이진 트리 병합](https://www.notion.so/617-85bcd1c7e1c8471b89ca20b9691bc2fa)
