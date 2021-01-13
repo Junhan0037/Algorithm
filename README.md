@@ -157,3 +157,5 @@
     - [310번: 최소 높이 트리](https://www.notion.so/310-30e2831629514310855d3e2aceb0058e)
     - [108번: 정렬된 배열의 이진 탐색 트리 변환](https://www.notion.so/108-bc3ecaab292845299f7baa2e56249522)
     - [1038번: 이진 탐색 트리를 더 큰 수 합계 트리로](https://www.notion.so/1038-e2363659835248d9b0bdc22bc45e8b74)
+    - [938번: 이진 탐색 트리 합의 범위](https://www.notion.so/938-3cc8fabdf04f4b3abab242bf0ebf6b1c)
+    - [783번: 이진 탐색 트리 노드 간 최소 거리](https://www.notion.so/783-be18e79c0288470fa316b0377408e80c)
