@@ -159,3 +159,5 @@
     - [1038번: 이진 탐색 트리를 더 큰 수 합계 트리로](https://www.notion.so/1038-e2363659835248d9b0bdc22bc45e8b74)
     - [938번: 이진 탐색 트리 합의 범위](https://www.notion.so/938-3cc8fabdf04f4b3abab242bf0ebf6b1c)
     - [783번: 이진 탐색 트리 노드 간 최소 거리](https://www.notion.so/783-be18e79c0288470fa316b0377408e80c)
+    - [105번: 전위, 중위 순회 결과로 이진 트리 구축](https://www.notion.so/105-a009b30774114e54b61b291c944a8a2a)
+    - [208번: 트라이 구현](https://www.notion.so/208-a9525702a68a4690b763aa36ebd3d3e8)
