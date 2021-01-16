@@ -164,3 +164,4 @@
     - [336번: 팰린드롬 페어](https://www.notion.so/336-bd5436d7f7f247d3951712bf1b62bf9d)
     - [148번: 리스트 정렬](https://www.notion.so/148-520eaafa6cb74fa69bb164abcdb5918a)
     - [56번: 구간 병합](https://www.notion.so/56-9b28a26bb30e4258958a5d8d5b14590b)
+    - [147번: 삽입 정렬 리스트](https://www.notion.so/147-ad09dc82107645968f7d5d095ab1c6fb)
