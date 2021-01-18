@@ -166,3 +166,5 @@
     - [56번: 구간 병합](https://www.notion.so/56-9b28a26bb30e4258958a5d8d5b14590b)
     - [147번: 삽입 정렬 리스트](https://www.notion.so/147-ad09dc82107645968f7d5d095ab1c6fb)
     - [179번: 가장 큰 수](https://www.notion.so/179-4848ffeb713743a78520b158e68101ad)
+    - [75번: 색 정렬](https://www.notion.so/75-fe2a3e1747724100a43d50a288ab488b)
+    - [973번: 원점에 K번째로 가까운 점](https://www.notion.so/973-K-8c466eb91f1b458585468228a705e606)
