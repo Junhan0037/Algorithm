@@ -170,3 +170,4 @@
     - [973번: 원점에 K번째로 가까운 점](https://www.notion.so/973-K-8c466eb91f1b458585468228a705e606)
     - [704번: 이진 검색](https://www.notion.so/704-5c38824b75d44cfca6ca738666e59463)
     - [349번: 두 배열의 교집합](https://www.notion.so/349-c5b675d02be548d9a8dc28eb8cd1235c)
+    - [167번: 두 수의 합 2](https://www.notion.so/167-2-e05f049735f7481ea010321a206a85f4)
