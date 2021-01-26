@@ -172,3 +172,5 @@
     - [349번: 두 배열의 교집합](https://www.notion.so/349-c5b675d02be548d9a8dc28eb8cd1235c)
     - [167번: 두 수의 합 2](https://www.notion.so/167-2-e05f049735f7481ea010321a206a85f4)
     - [240번: 2D 행렬 검색 2](https://www.notion.so/240-2D-2-18bcbe8bf3664dbe8001f9beb8f43d79)
+    - [136번: 싱글 넘버](https://www.notion.so/136-7a081da3dda04dfc8eef560413e70923)
+    - [461번: 해밍 거리](https://www.notion.so/461-08860e886c6944b5a349d2f505a02200)
