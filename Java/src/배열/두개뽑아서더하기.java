@@ -18,6 +18,7 @@ public class 두개뽑아서더하기 {
 
     private static int[] solution(int[] input) {
         Set<Integer> set = new HashSet<>();
+
         for (int i = 0; i < input.length - 1; i++) {
             for (int j = i + 1; j < input.length; j++) {
                 set.add(input[i] + input[j]);
